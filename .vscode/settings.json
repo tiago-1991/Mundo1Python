@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false,
+    "files.autoSave": "afterDelay",
+    "python.pythonPath": "C:\\Users\\Tiago\\AppData\\Local\\Programs\\Python\\Python310\\python.exe"
+}
